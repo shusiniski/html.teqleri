@@ -1,0 +1,82 @@
+               HTML Tags
+
+
+ 1)<html></html>
+
+2) <head></head>------ Senedin basligi
+
+3) <body></body>---------Senedin govdesi 
+
+4) <br>  ----- metnin yeni setre keçirilmesi
+
+5) <p></p>  --- Paraqraf vasitesi ile biz metni merkezle?dire bilerik. Paraqraf vasitesi ile biz metni sol teref uzre duzlendire bilerik ve ya metni sag teref uzre duzlendire bilerik. (left, right ve justify).
+
+
+6) <title></title>---------bu konteyner teqdir, bunun daxilinde diger teqler ve metn de yerlesdirile biler.
+
+7) <font></font> --- teqi çox funksiyalidir. tekce metnin müeyyen hissesinin rengini yox, hemcinin metnin rengini ve sriftini de (Arial) vermek olar. 
+
+8) <font color="#CC0000"> Xosh gelmisiniz</font>
+
+
+9) <H1> metn </H1>   
+  <H2> metn </H2>
+  <H3> Metn </H3>
+
+  <H4> Metn </H4>
+
+  <H5> Metn </H5>
+
+  <H6> Metn </H6>
+
+burda H1 en boyuk, H6 en kiciyidir.Basliqlarin kömekliyi ile biz metnin strukturunu teyin edirik.
+
+
+10) <b>  </b>  -- Yagli metn
+
+11) <i>  </i>  --- Yanaki metn
+ 
+12) <u> </u>   --- Xetli metn 
+
+13) <strike> ve <s> --- teqleri metnin pozulmasi uçun istifade edilir, prinsipial olaraq bunlar arasinda ferq yoxdur.
+
+14) <big> ---- teqi esas metne nezeren boyuk
+   <small> --- ise kiçik wrift ucun istifade edilir.
+
+15) <font face="arial"> metn (Arial srifti)</font>  ---- face-in komekliyi ile biz wriftin tipini teyin edirik.
+
+
+16) <img src="my.jpg"> ---- en esasi is? onu bilmek lazimdir ki, dirnaq isaresi arasinda yazilanlar baglantidir (sekle geden yol).
+
+17) 	<audio>, <video>
+
+18)   <strong> sozleri vurgulamaq ucun istifade olunur </strong>
+
+19) <a> </a> ---- teqi onun aras?nda yazilmis sekli ve ya metni baglanti edir.
+<a href="http://www.mp3.az/"> musiqi sayti </a> 
+
+
+20)  <map></map> --- Naviqasiyali xeriteler . <map> teqi daxilinde xeritede olan hendesi saheleri  teyin etmek ve onun baglantisinin hara yoneldiyini (yeni ona sixarken hara du?eceksen) gostermek ucun <area> teq(ler)inden istifade edilir.
+
+21) <table></table> --- Cedvel  bu teqle verilir.
+Cedveller setir ve sutunlardan ibaretdir, ona gore de onlar? tesvir etmek lazimdir.
+
+<tr></tr> - C?dv?lin s?tirl?ri.
+<td></td> - C?dv?lin sütunlar?.
+
+Eger biz bir setirde butun fonu deyi?mek isteyirsinizse, onda <tr> teqinde "bgcolor" xassesini i?ledirik.
+
+Eger biz butun cedvelde fonun rengini deyiwmek isteyirikse, onda "bgcolor" xass?sini <table> teqine tetbiq edirik.
+
+22)  <Hr> ---- X?tl?r .cumlenin altindan xett cekir .
+
+23) <ul> </ul> --- Nomrelenmemiw siyahilar  bu teqle qurulur.
+
+<li> ------ Siyahinin elementlerini (1-ci mitn, 2-ci mitn...) daxil etmik ucun bizim konstruksiyamiza <li> teqini  yazmaq lazimdir.
+
+
+25)  <ol> </ol> --- Nomrelenmiw siyahilar
+
+26)  <q>dirnaq icinde yazir</q>
+
+27)  <blockquote> abzas dan yazir </blockquote>
